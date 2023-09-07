@@ -1,0 +1,21 @@
+MPU9250(九轴）资料：https://pan.baidu.com/s/1nu67w6l
+
+MPU6000（六轴）资料：http://html.alldatasheet.com/html-pdf/517743/ETC1/MPU-6000/97/1/MPU-6000.html
+
+MPU6500（六轴）资料：网盘：https://pan.baidu.com/s/1-g-FCzbCbxVc_FDyq9iMuw 提取码：gt79
+
+STM32F405RGT6资料：https://pan.baidu.com/s/1F3PEnXEJGGgaEiFl--C2Pw
+
+BMP280(气压计）：（学习）：http://t.csdn.cn/TvMfp
+		          http://t.csdn.cn/qnntV
+		 （资料）：https://pan.baidu.com/s/1VBJYG2quzmRSH5ulyfeErg?pwd=U309 
+
+好盈电调：https://pan.baidu.com/s/1DnuauNOOellNnkIuswIP4Q?pwd=U309 
+
+STM32F4 V3S PLUS资料：主控芯片：STM32F405RGT6	陀螺仪：MPU6500+BMP280
+		     淘宝详情页：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67e62e8doHnuQz&id=					 622994231135&_u=53b6jccnbb6b
+		     网盘开发资料：https://pan.baidu.com/s/1Ji9mUgueClrkVj54lMyaXA?pwd=U309 
+
+正点原子飞控资料：http://www.openedv.com/docs/fouraxis-fly/atkf405.html
+	1、开源飞控F405：主控芯片：STM32F405RGT6		陀螺仪：MPU6000+BMP280		较大电机
+	2、minifly：         主控芯片：STM32F411CEU6TR  	陀螺仪：MPU9250+BMP280  	        空心杯电机
